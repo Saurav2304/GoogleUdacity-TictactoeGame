@@ -1,1 +1,1 @@
-# TicTacToe Google/Udacity-App2
+# TicTacToe developed during Google Udacity Challenge Scholarship 2018
